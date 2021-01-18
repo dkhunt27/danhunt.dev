@@ -18,7 +18,7 @@
             Solution incorporated different methods of authentication, AWS WAF + AWS Lambda@Edge for internal IP allow listing and Auth0 for SSO.
           </p>
           <p>
-            Designed and developed iOffice data ingestion solution to facilitate covid re-entry processes.  
+            Designed and developed iOffice data ingestion solution to facilitate COVID-19 re-entry processes.  
             Solution was mostly serverless using API Gateway and AWS Lambdas (NodeJS) for the processing.  
             Used on-prem MSSQL on the backend.  
             Worked with architecture to create AWS VPN with Transit Gateway to allow Lambdas access to on-prem MSSQL.
@@ -70,7 +70,7 @@
           </p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">Apr 2010 - Mar 2012</span>
+          <span class="text-primary">Apr 2012 - Aug 2017</span>
         </div>
       </div>
 
@@ -85,7 +85,7 @@
             Was tier 1 through 3 support depending on the maturity of the specific ELS client support staff and product. 
             Worked with solution architect to help design new version of product and product team to estimate new solution. 
             Lead team responsible for ELS performance initiative. 
-            Developed a repeatable testing process utilizing current testing harnesses to help quantitate performance gains from specific initiatives which increased system performance by 82%. 
+            Developed a repeatable testing process utilizing current testing harnesses to help quantify performance gains from specific initiatives which increased system performance by 82%. 
             Designed and developed application to streamline deployment process. 
             Utilized Microsoft Enterprise Library’s Unity framework incorporating a Service-Oriented Architecture. 
             Unity’s dependency injection allowed for a run time configurable process which can be leverage by all departments within Urban Science. 
@@ -135,7 +135,7 @@
             Re-architected existing single client focused lead management solution to core product which can handle multiple clients and their unique needs. 
             Lead meetings to uncover new client needs. 
             Lead meetings with team to develop solution to meet and exceed those clients’ needs. 
-            Developed Windows Presentation Foundation (WPF) timesheet application to ease the time tracking commitment of the team.
+            Developed Windows Presentation Foundation (WPF) time-sheet application to ease the time tracking commitment of the team.
           </p>
         </div>
         <div class="resume-date text-md-right">
@@ -145,7 +145,7 @@
 
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
-          <h3 class="mb-0">Techincal Project Manager</h3>
+          <h3 class="mb-0">Technical Project Manager</h3>
           <div class="subheading mb-3">Urban Science</div>
           <p>
             Developed lead management solutions to maximize returns on client leads from websites, direct-mail campaigns, lease maturities, and other sources. 

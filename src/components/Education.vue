@@ -10,7 +10,7 @@
           <div>Bachelor of Science</div>
           <div>GPA: 3.4</div>
           <div>Graduated with Distinction</div>
-          <p>Upsilon Pi Epsilon, Honor Society in the Computing Sciences</p>
+          <p>Upsilon Pi Epsilon - Honor Society in the Computing Sciences</p>
         </div>
         <div class="resume-date text-md-right">
           <span class="text-primary">1995 - 2000</span>
