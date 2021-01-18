@@ -1,7 +1,7 @@
 module.exports = {
-  siteName: 'Gridsome starter resume',
-  siteDescription: 'A starter project for Gridsome with Bootstrap for you to quickly build a resume.',
-  siteUrl: 'https://gridsome-starter-resume.loke.dev',
+  siteName: 'Dan Hunt\'s Resume',
+  siteDescription: 'Dan Hunt\'s Resume as a static serverless site',
+  siteUrl: 'https://danhunt.dev',
   plugins: [{
       use: '@gridsome/plugin-google-analytics',
       options: {
