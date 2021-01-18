@@ -1,12 +1,13 @@
-name: Master CI/CD
+name: Build and Deploy
 
 on:
   push:
-    branches:
-      - master
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
-  primary:
+  build_deploy:
     runs-on: ubuntu-latest
 
     steps:
