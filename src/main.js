@@ -58,6 +58,9 @@ library.add(
   faNpm,
   faRss,
   faCheck,
+  faDocker,
+  faVuejs,
+  faAws
 )
 
 export default function (Vue, {
