@@ -39,7 +39,7 @@ export default {
   },
   metaInfo: {
     title: "Dan Hunt Resume",
-    titleTemplate: "%s - Create your resume quick and easy!"
+    titleTemplate: "%s"
   }
 };
 </script>
