@@ -30,6 +30,9 @@ import {
   faGulp,
   faGrunt,
   faNpm,
+  faDocker,
+  faVuejs,
+  faAws
 } from '@fortawesome/free-brands-svg-icons'
 import {
   FontAwesomeIcon
