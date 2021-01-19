@@ -1,4 +1,5 @@
 # danhunt.dev
+
 Resume website build with Gridsome
 
 ### Features
@@ -13,10 +14,11 @@ This project is built with the following technologies.
 
 ## Development
 
-+ `yarn install`
-+ `yarn dev` to start local dev server at `http://localhost:8080`
+- `yarn install`
+- `yarn dev` to start local dev server at `http://localhost:8080`
 
 ### IAC & Deployment
+
 - Infrastructure as Code - Serverless Framework
 - Built and deployed via Github Actions.
 

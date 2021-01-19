@@ -38,7 +38,7 @@ export default {
     Feedback
   },
   metaInfo: {
-    title: "Dan Hunt Resume",
+    title: "Dan Hunt's Resume",
     titleTemplate: "%s"
   }
 };
