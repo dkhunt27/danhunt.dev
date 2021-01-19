@@ -84,7 +84,7 @@
             Trained and mentored internal ELS client support staff. 
             Was tier 1 through 3 support depending on the maturity of the specific ELS client support staff and product. 
             Worked with solution architect to help design new version of product and product team to estimate new solution. 
-            Lead team responsible for ELS performance initiative. 
+            Led team responsible for ELS performance initiative. 
             Developed a repeatable testing process utilizing current testing harnesses to help quantify performance gains from specific initiatives which increased system performance by 82%. 
             Designed and developed application to streamline deployment process. 
             Utilized Microsoft Enterprise Library’s Unity framework incorporating a Service-Oriented Architecture. 
@@ -133,8 +133,6 @@
           <p>
             Managed a team of 5 people. 
             Re-architected existing single client focused lead management solution to core product which can handle multiple clients and their unique needs. 
-            Lead meetings to uncover new client needs. 
-            Lead meetings with team to develop solution to meet and exceed those clients’ needs. 
             Developed Windows Presentation Foundation (WPF) time-sheet application to ease the time tracking commitment of the team.
           </p>
         </div>
