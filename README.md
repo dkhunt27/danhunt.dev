@@ -1,11 +1,11 @@
-# dan hunt resume
-Resume website build with gridsome
+# danhunt.dev
+Resume website build with Gridsome
 
 ### Features
 
 This project is built with the following technologies.
 
-- **Gridsome -** Vue.js & GraphQL powered framework genrating static files.
+- **Gridsome -** Vue.js & GraphQL powered framework generating static files.
 - **Bootstrap & Bootstrap Vue -** Powerful styling and layout with styled Vue components.
 - **Sass -** Professional grade CSS extension with many features.
 - **Google Analytics -** Easily implemented via gridsome plugin
