@@ -8,7 +8,7 @@
           <h3 class="mb-0">Senior Software Engineer</h3>
           <div class="subheading mb-3">Quicken Loans / Rock Central</div>
           <p>
-            Designed and developed a serverless solution for security team to monitor potential threats to the FOC.  
+            Designed and developed a serverless solution to monitor potential threats to the family of companies.  
             Solution used Angular for the frontend, PING for authentication, Elasticsearch for advanced searching, and DynamoDB for storage.  
             Created CICD pipeline using serverless framework and Circle CI for testing, linting, building, and deploying.  
             Used API Gateway, S3, CloudFront, Elasticsearch Service, Step Functions, DynamoDB, SNS, and Lambda from AWS for a complete end to end serverless solution.
@@ -22,6 +22,9 @@
             Solution was mostly serverless using API Gateway and AWS Lambdas (NodeJS) for the processing.  
             Used on-prem MSSQL on the backend.  
             Worked with architecture to create AWS VPN with Transit Gateway to allow Lambdas access to on-prem MSSQL.
+          </p>
+          <p>
+            Created infrastructure to facilitate database backups and health monitoring for serverless deployments.
           </p>
           <p>
             Created monorepo for team's shared libraries using Lerna and RushJS.
@@ -63,7 +66,7 @@
           <p>
             Developed digital coupon solution for CPG that connected CPG brand with relevant shoppers to drive store trips and influence purchases. 
             Developed and maintained C# and MSSQL backend solution responsible for processing CPG inventory. 
-            Converted frontend solution from a on-prem C# MVC application to an AngularJS containerize application in the cloud using Apache Mesos. 
+            Converted frontend solution from an on-prem C# MVC application to an AngularJS containerize application in the cloud using Docker and Apache Mesos. 
             Created CICD process to facilitate container creation and deployment. 
             Ported API from MSSQL to Couchbase NoSQL. 
             Performed code reviews and mentoring.

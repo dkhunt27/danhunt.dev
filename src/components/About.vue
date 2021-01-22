@@ -12,10 +12,10 @@
         >dkhunt27@gmail.com</a>
       </div>
       <p class="lead mb-5"> 
-        I have more than 15 years of professional experience in software engineering.  
-        I am a full stack .Net and Javascript engineer who advocates for cloud technologies with experience not only in the development of, but also in the management of technical solutions from concept to delivery.
-        I am an expert do-er, well-versed in different development methodologies, tools, and processes contributing to the design and rollout of cutting-edge software applications. 
-        I am known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective, and responsive solutions.
+        A full stack .Net and Javascript software engineer with more than 15 years of professional experience who advocates for cloud technologies.
+        I am experienced in the development of and the management of technical solutions from concept to delivery.
+        I am an excellent troubleshooter – able to analyze code and engineer well-researched, cost-effective, and responsive solutions.
+        I am well-versed in development methodologies, tools, and processes contributing to the design and rollout of cutting-edge software applications. 
       </p>
       <div class="social-icons">
         <a href="https://linkedin.com/in/dkhunt27" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
