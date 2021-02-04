@@ -6,7 +6,7 @@
         <span class="text-primary">Hunt</span>
       </h1>
       <div class="subheading mb-5">
-        Livonia, MI 48152 · (313) 445-4197 ·
+        Livonia, MI 48152 ·
         <a
           href="mailto:dkhunt27@gmail.com"
         >dkhunt27@gmail.com</a>
